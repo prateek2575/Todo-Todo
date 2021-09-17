@@ -84,7 +84,7 @@ class App extends React.Component {
               })}
               <li>
                 <input type="checkbox" name="" id="" />
-                Todo added here..
+                Your TO-DO goes here..
                 <button className="btn">Delete</button>
               </li>
             </ul>
